@@ -1,0 +1,102 @@
+CIT114 Intro to Cloud Computing w/ DevOps 
+
+ 
+
+ 
+
+AWS PRICING 
+
+Pay as you go: 
+
+ 
+
+ 
+
+-Pay-as-you-go pricing allows users to easily adapt to business changes without overpaying or being late on payments. Allows to also limit reliability and uses of cost forecasts/projections. 
+
+ 
+
+-Save When you reserve; Pay less by using more 
+
+ 
+
+-(Cheaper by dozen, similar to Costco style marketing) 
+
+ 
+
+AWS Pricing: Key Principles: 
+
+-Fundamentals of Pricing 
+
+-Start early cost optimize 
+
+-Maximize the power of flexibility 
+
+-Use the right pricing model for job(s) 
+
+ 
+
+FREE services 
+
+ 
+
+-AWS Credits if requested, Educate $100 for a starter account along with access to classrooms with additional credits. 
+
+ 
+
+-Content and Collaboration included (Student portal and portfolio access) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+AWS FREE TIER OVERVEIW: 
+
+ 
+
+-Eligibility 
+
+Free Tier Limitations 
+
+ 
+
+Services: 750 hours of Amazon EC2 and other services 
+
+-30 GB Amazon EBS 
+
+-5GB of AMAZON s3 standard 
+
+-20k Get and 2k Put Requests 
+
+-VPC Services 
+
+-Auto Scaling 
+
+-CloudFormation 
+
+-IAM 
+
+ 
+
+TOTAL COST OF OWNERSHIP (TCO) 
+
+ 
+
+-Formula assessing direct/indirect costs and benefits relating to any IT component purchases 
+
+ 
+
+-Models for different cloud providers (TCO) domain/enterprise-dependent 
+
+-Real benefit is the ability to effectively react to ever-changing business needs  
+
+-Have to consider already existing investments 
+
+-Defining TCO models (Existing infrastructure, Existing skills and humans, Difference in costs, pre-cloud to post-cloud, Costs of cloud services when in use, value of agility and avoiding future capital expenditures, Costs of risk within compliance issues) 
